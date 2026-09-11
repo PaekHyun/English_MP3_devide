@@ -1,0 +1,15 @@
+# 원본/출력 오디오 (대용량 + 저작물) — 코드와 인덱스만 관리
+Disney Fun to Read 1/
+page_turn_only/
+page_turn_clips/
+page_turn_clips_v2/
+split_no_page_turns/
+split_by_marker/
+*.mp3
+*.wav
+*.png
+
+# 기타
+__pycache__/
+.ipynb_checkpoints/
+*.bak
